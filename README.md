@@ -1,3 +1,7 @@
+<a href="https://ultimatelist.xyz">
+  <img alt="Ultimate – The ultimate index of curated lists" src="https://ultimatelist.xyz/opengraph-image" />
+</a>
+
 <h1 align="center">Ultimate</h1>
 <p align="center">
   The ultimate index of curated lists
