@@ -1,5 +1,5 @@
-<a href="https://ultimatelist.xyz">
-  <img alt="Ultimate – The ultimate index of curated lists" src="https://ultimatelist.xyz/opengraph-image" />
+<a href="https://github.com/playtheorylab/ultimate">
+  <img alt="Ultimate – The ultimate index of curated lists" src="https://ibb.co/XYs2yD6" />
 </a>
 
 <h1 align="center">Ultimate</h1>
